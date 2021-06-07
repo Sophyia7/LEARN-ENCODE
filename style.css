@@ -1,4 +1,31 @@
-/* NavBar */
-.navbar{
-  color: white;
+hr{
+  margin: 90px;
+}
+
+/* Carousel */
+
+/* For Heading after the carousel */
+.card-heading{
+  display: flex;
+  text-align: center;
+}
+.row{
+  margin: 70px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+.rounded-circle{
+  width: 60%;
+}
+
+/* Featurette Heading */
+.second-heading{
+  text-align: left;
+  color: grey;
+}
+
+/* Footer */
+.float-end{
+  text-align: right;
+
 }
